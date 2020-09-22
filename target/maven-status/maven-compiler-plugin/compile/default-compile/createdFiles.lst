@@ -1,0 +1,6 @@
+services/BaseService.class
+endpoint/HelloWorld.class
+model/Product.class
+services/ProductService.class
+endpoint/ProuctEndpoint.class
+endpoint/JaxRSRoot.class
