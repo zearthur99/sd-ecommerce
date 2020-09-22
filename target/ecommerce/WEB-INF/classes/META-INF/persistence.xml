@@ -1,6 +1,0 @@
-<persistence>
-    <persistence-unit name="primary">
-        <jta-data-source>java:/localDataSource</jta-data-source>
-        <class>model.Product</class>
-    </persistence-unit>
-</persistence>
